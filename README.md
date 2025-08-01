@@ -1,0 +1,43 @@
+# **编程规范 (Programming Specification)**
+
+本项目旨在为团队（特别是新加入的成员）提供一套清晰、可行、详细的编程开发规范。遵循这些规范有助于培养卓越的编程习惯，提升代码质量，增强代码的可读性和可维护性，最终提高整个团队的协作效率。
+
+## **规范列表**
+
+目前，本项目包含以下核心领域的开发规范：
+
+### **1\. Python 开发规范**
+
+* **内容**: 遵循 PEP 8，涵盖命名约定、代码格式、注释与文档字符串、错误处理、项目结构、虚拟环境管理、测试以及版本控制等最佳实践。  
+* **目标**: 编写出简洁、清晰、健壮且易于维护的 Python 代码。  
+* [**➡️ 查看 Python 开发规范**](https://www.google.com/search?q=./Python_%E5%BC%80%E5%8F%91%E8%A7%84%E8%8C%83.ipynb)
+
+\<a href="https://www.google.com/search?q=https://colab.research.google.com/github/maozida880/programming-specification/blob/main/Python\_%E5%BC%80%E5%8F%91%E8%A7%84%E8%8C%83.ipynb" target="\_parent"\>\<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="在 Colab 中打开"/\>\</a\>
+
+### **2\. HIVE SQL 开发规范**
+
+* **内容**: 专为大数据环境设计，包含命名规范、代码风格、注释标准，并重点讲解了性能优化技巧，如分区裁剪、JOIN 操作优化、GROUP BY 和 COUNT(DISTINCT) 的处理等。  
+* **目标**: 编写出高效、资源节约且逻辑清晰的 HIVE SQL 查询。  
+* [**➡️ 查看 HIVE SQL 开发规范**](https://www.google.com/search?q=./HIVE_SQL%E5%BC%80%E5%8F%91%E8%A7%84%E8%8C%83.ipynb)
+
+\<a href="https://www.google.com/search?q=https://colab.research.google.com/github/maozida880/programming-specification/blob/main/HIVE\_SQL%E5%BC%80%E5%8F%91%E8%A7%84%E8%8C%83.ipynb" target="\_parent"\>\<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="在 Colab 中打开"/\>\</a\>
+
+## **如何使用**
+
+* **新人培训**: 本规范是新人入职培训的必读材料，有助于快速融入团队的开发文化。  
+* **日常参考**: 在日常开发中遇到疑问时，可随时查阅本规范作为参考。  
+* **代码审查 (Code Review)**: 本规范是进行代码审查时的重要依据。
+
+## **贡献**
+
+我们鼓励所有团队成员共同维护和完善这份规范。如果您有任何建议、修正或希望添加新的规范，请通过以下方式贡献：
+
+1. **Fork** 本项目。  
+2. 创建您的特性分支 (git checkout \-b feature/AmazingFeature)。  
+3. 提交您的更改 (git commit \-m 'Add some AmazingFeature')。  
+4. 将更改推送到分支 (git push origin feature/AmazingFeature)。  
+5. 提交一个 **Pull Request**。
+
+或者，您可以直接创建一个 **Issue** 来发起讨论。
+
+"代码首先是写给人看的，其次才是让机器执行的。"
