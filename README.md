@@ -28,16 +28,4 @@
 * **日常参考**: 在日常开发中遇到疑问时，可随时查阅本规范作为参考。  
 * **代码审查 (Code Review)**: 本规范是进行代码审查时的重要依据。
 
-## **贡献**
 
-我们鼓励所有团队成员共同维护和完善这份规范。如果您有任何建议、修正或希望添加新的规范，请通过以下方式贡献：
-
-1. **Fork** 本项目。  
-2. 创建您的特性分支 (git checkout \-b feature/AmazingFeature)。  
-3. 提交您的更改 (git commit \-m 'Add some AmazingFeature')。  
-4. 将更改推送到分支 (git push origin feature/AmazingFeature)。  
-5. 提交一个 **Pull Request**。
-
-或者，您可以直接创建一个 **Issue** 来发起讨论。
-
-"代码首先是写给人看的，其次才是让机器执行的。"
