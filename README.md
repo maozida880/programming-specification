@@ -10,7 +10,7 @@
 
 * **内容**: 遵循 PEP 8，涵盖命名约定、代码格式、注释与文档字符串、错误处理、项目结构、虚拟环境管理、测试以及版本控制等最佳实践。  
 * **目标**: 编写出简洁、清晰、健壮且易于维护的 Python 代码。  
-* [**➡️ 查看 Python 开发规范**](https://github.com/maozida880/programming-specification/blob/main/HIVE_SQL%E5%BC%80%E5%8F%91%E8%A7%84%E8%8C%83.ipynb)
+* [**➡️ 查看 Python 开发规范**](https://github.com/maozida880/programming-specification/blob/main/Python_%E5%BC%80%E5%8F%91%E8%A7%84%E8%8C%83.ipynb)
 
 
 
@@ -18,7 +18,7 @@
 
 * **内容**: 专为大数据环境设计，包含命名规范、代码风格、注释标准，并重点讲解了性能优化技巧，如分区裁剪、JOIN 操作优化、GROUP BY 和 COUNT(DISTINCT) 的处理等。  
 * **目标**: 编写出高效、资源节约且逻辑清晰的 HIVE SQL 查询。  
-* [**➡️ 查看 HIVE SQL 开发规范**](https://github.com/maozida880/programming-specification/blob/main/Python_%E5%BC%80%E5%8F%91%E8%A7%84%E8%8C%83.ipynb)
+* [**➡️ 查看 HIVE SQL 开发规范**](https://github.com/maozida880/programming-specification/blob/main/HIVE_SQL%E5%BC%80%E5%8F%91%E8%A7%84%E8%8C%83.ipynb)
 
 
 
